@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan Narendra</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<h4 align="center">I worked in the domains including full <B>(MEAN)</B>stack development , cybersecurity<b>(VAPT,WAPT,OSINT)</b> , Malware analysis , Android Application development using kotlin </h4>
+<h4 align="center">I worked in the domains including full <B>(MEAN)</B>stack development , cybersecurity<b>(VAPT,WAPT,OSINT)</b> , Malware analysis</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1narendra&label=Profile%20views&color=0e75b6&style=flat" alt="pa1narendra" /> </p>
 
@@ -8,17 +8,17 @@
 
 - 🔭 I’m currently working on **MERN projects**
 
-- 🌱 I’m currently learning **React , Angular , Kotlin , Rust.**
+- 🌱 I’m currently learning **React , Rust.**
 
 - 👯 I’m looking to collaborate on **Malware development**
 
-- 👨‍💻 All of my projects are available at [pa1narendra.github.io](pa1narendra.github.io)
+- 👨‍💻 All of my projects are available at github.com/pa1narendra
 
 - 💬 Ask me about **Java , C , Malware , Animations.**
 
 - 📫 How to reach me **pavannarendra2002@gmail.com**
 
-- ⚡ Fun fact **I like fan wars 😁.**
+- ⚡ Fun fact **There is no fun in here.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
