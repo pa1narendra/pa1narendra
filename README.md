@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan Narendra</h1>
+<h1 align="center">Hi 👋, I'm Pavan Narendra Peela</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <h4 align="center">I worked in the domains including full <B>(MEAN)</B>stack development , cybersecurity<b>(VAPT,WAPT,OSINT)</b> , Malware analysis</h4>
 
