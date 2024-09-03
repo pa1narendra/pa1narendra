@@ -2,8 +2,6 @@
 <h3 align="center">A passionate software engineer from India</h3>
 <h4 align="center">I worked in the domains including full <B>(MEAN)</B>stack development , cybersecurity<b>(VAPT,WAPT,OSINT)</b> , Malware analysis</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1narendra&label=Profile%20views&color=0e75b6&style=flat" alt="pa1narendra" /> </p>
-
 <p align="left"> <a href="https://twitter.com/pa1narendra" target="blank"><img src="https://img.shields.io/twitter/follow/pa1narendra?logo=twitter&style=for-the-badge" alt="pa1narendra" /></a> </p>
 
 - 🔭 I’m currently working on **MERN projects**
