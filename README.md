@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan Narendra Peela</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<h4 align="center">I worked in the domains including full <B>(MEAN)</B>stack development , cybersecurity<b>(VAPT,WAPT,OSINT)</b> , Malware analysis</h4>
+<h4 align="center">I worked in the domains including full <B>(MERN)</B>stack development , cybersecurity<b>(VAPT,WAPT,OSINT)</b> , Malware analysis</h4>
 
 <p align="left"> <a href="https://twitter.com/pa1narendra" target="blank"><img src="https://img.shields.io/twitter/follow/pa1narendra?logo=twitter&style=for-the-badge" alt="pa1narendra" /></a> </p>
 
