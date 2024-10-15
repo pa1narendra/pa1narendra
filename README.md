@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Malware development**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.pa1narendra.github.io" target="blank">**Portfolio**</a>
+- 👨‍💻 All of my projects are available at <a href="https://pa1narendra.github.io" target="blank">**Portfolio**</a>
 
 - 💬 Ask me about **Java , C , Malware , Animations.**
 
